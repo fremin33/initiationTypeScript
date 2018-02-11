@@ -1,7 +1,7 @@
 define(["require", "exports"], function (require, exports) {
     "use strict";
     Object.defineProperty(exports, "__esModule", { value: true });
-    var Personne = /** @class */ (function () {
+    var Personne = (function () {
         function Personne(id, nom, prenom, age) {
             this.id = id;
             this.nom = nom;

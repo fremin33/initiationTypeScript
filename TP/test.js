@@ -1,5 +1,5 @@
 "use strict";
-var Hello = /** @class */ (function () {
+var Hello = (function () {
     function Hello(defaultName) {
         var _this = this;
         this.element = document.createElement("div");
